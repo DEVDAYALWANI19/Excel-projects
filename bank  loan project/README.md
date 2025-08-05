@@ -18,6 +18,7 @@ To monitor and assess the bank's **lending activities**, a **comprehensive Bank 
 ---
 
 ## Dashboard 1: Summary
+![Dashboard 1 Summary](https://github.com/DEVDAYALWANI19/Excel-projects/blob/972b172af80e909c4e2fb068fc4221843de5d46c/bank%20%20loan%20project/Screenshot%202025-08-05%20175458.png)
 
 This dashboard presents **high-level KPIs** to track loan health and trends over time:
 
@@ -97,4 +98,5 @@ To deliver **insightful**, **user-friendly**, and **interactive dashboards** tha
 ##Author – Dev Dayalwani
 
 Thank You for your interest in this project
+
 
