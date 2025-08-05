@@ -45,6 +45,7 @@ This dashboard presents **high-level KPIs** to track loan health and trends over
 ---
 
 ##  Dashboard 2: Overview
+![Dashboard 1 Overview](https://github.com/DEVDAYALWANI19/Excel-projects/blob/7914b98df6908c03397389c2afdac88cf514eb73/bank%20%20loan%20project/Screenshot%202025-08-05%20175533.png)
 
 ### **1. Monthly Trends** *(Line Chart)*
 - Metrics: Applications, Funded Amount, Received Amount
@@ -96,3 +97,4 @@ To deliver **insightful**, **user-friendly**, and **interactive dashboards** tha
 ##Author – Dev Dayalwani
 
 Thank You for your interest in this project
+
