@@ -39,7 +39,7 @@ This project involves analyzing a customer care dataset to understand the perfor
 
 You can view the full dashboard visuals below:
 
-![Dashboard Overview](customer care project/Screenshot 2025-08-07 142250.png)
+![Dashboard Overview](https://github.com/DEVDAYALWANI19/Excel-projects/blob/46fdc5c4b881bbb988d580bef8fac05e1301ea8c/customer%20care%20project/Screenshot%202025-08-07%20142250.png)
 
 ---
 
@@ -59,4 +59,4 @@ This project helped visualize key metrics in customer support, enabling quicker 
 
 ## 🔗 Connect with Me
 
-Feel free to explore more on my [GitHub profile](https://github.com/your-username))
+Feel free to explore more on my [GitHub profile](https://github.com/DEVDAYALWANI19)
